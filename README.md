@@ -16,7 +16,7 @@
 </p>
 <h1> 🛠️ Getting Started</h1>
 <h2>1. Clone the repository:Copy code </h2> 
-git clone  : https://github.com/your-username/todo-list.git <br>
+git clone  : https://github.com/Nahid-hasan-web/todoList.git <br>
 <h2>2. Open the index.html file in your favorite web browser.</h2>
 <h2> 3.  Start adding, editing, and completing tasks to stay organized and on top of your to-do list! </h2>
 <h1>💡 Usage </h1>
@@ -27,4 +27,4 @@ git clone  : https://github.com/your-username/todo-list.git <br>
 <h1>📸 Screenshots</h1>
 <img src="https://i.ibb.co/0Y79zVz/Screenshot-40.png" alt="Todo List App">
 <h1>🎥 Live Demo</h1>
-View Demo https://nahid-hasan-web.github.io/todo-list-/
+View Demo: https://nahid-hasan-web.github.io/todoList/
