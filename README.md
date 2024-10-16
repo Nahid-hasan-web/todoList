@@ -26,6 +26,7 @@ git clone  : https://github.com/Nahid-hasan-web/todoList.git <br>
 <h4>Deleting a Task:</h4> Click on the delete icon next to a task to remove it from the list.
 <h1>📸 Screenshots</h1>
 View Demo: https://nahid-hasan-web.github.io/todoList/
+<br>
 <img src="https://i.ibb.co/0Y79zVz/Screenshot-40.png" alt="Todo List App">
 <h1>🎥 Live Demo</h1>
 
