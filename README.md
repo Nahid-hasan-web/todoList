@@ -25,6 +25,7 @@ git clone  : https://github.com/Nahid-hasan-web/todoList.git <br>
 <h4>Completing a Task:</h4> Check the checkbox next to a task to mark it as complete.
 <h4>Deleting a Task:</h4> Click on the delete icon next to a task to remove it from the list.
 <h1>📸 Screenshots</h1>
+View Demo: https://nahid-hasan-web.github.io/todoList/
 <img src="https://i.ibb.co/0Y79zVz/Screenshot-40.png" alt="Todo List App">
 <h1>🎥 Live Demo</h1>
-View Demo: https://nahid-hasan-web.github.io/todoList/
+
